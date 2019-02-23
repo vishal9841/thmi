@@ -1,0 +1,61 @@
+file format %s= string
+            %d= number
+            %f= double(float)
+
+netbeans tip: ctrl+shift+i==Fix Imports
+
+semantic error. A disconnect between a program's  intent and action.  
+
+interger.parseint() explaines: Interger is a class and parseInt() is a static method of that class.
+
+Objects-i> Objects are custom variables which contain state and behavior.
+
+        ii> In java, state is represented as properties ans behavior as methods.
+
+CLASSES-i>Classes define the blueprint for an object.
+        ii>Think of a Class as a custom data type and the object is the variable you declear from it.
+
+    if(Boolean Expression){
+Statements;
+When;
+True;
+}else{
+Statement;
+when;
+False;
+}
+
+
+
+
+
+jqueryS
+https://www.tutorialspoint.com/jquery/jquery-attributes.htm   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
